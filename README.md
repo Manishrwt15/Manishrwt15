@@ -18,6 +18,12 @@ I’m a passionate developer who loves to explore new technologies, solve comple
 
 ---
 
+## 👨‍💻 My Experience:
+- **GrapplTech** - Contributed to open-source, creating reusable UI components for developers.
+- **Unthinkable Solutions** - Worked on dynamic full-stack projects, focusing on delivering optimal performance and clean code.
+
+---
+
 ## 🛠️ Tech Stack:
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
