@@ -1,17 +1,20 @@
 # Hi there, I'm Manish Rawat! 👋
 
-**A Full Stack Developer** with a strong passion for **solving complex problems** and a solid command over **MERN Stack** and **Java**. With over a year of experience, I've honed my skills in **Data Structures & Algorithms (DSA)**, completing more than **200 LeetCode problems**. I thrive on building scalable applications, optimizing code, and contributing to open-source projects.
+![Profile Views](https://komarev.com/ghpvc/?username=Manishrwt15&color=blueviolet&style=flat-square)
+
+**A Full Stack Developer** with a strong passion for **solving complex problems** and a solid command over **MERN Stack**, **Java**, and **Python**. With over two years of experience, I've honed my skills in **Data Structures & Algorithms (DSA)**, completing more than **200 LeetCode problems**. I thrive on building scalable applications, optimizing code, and contributing to open-source projects.
 
 - 🎓 **MCA (Master of Computer Applications), Final Year**
 - 💻 **2+ years of experience** in Full Stack Development
 - 🌱 Currently mastering **Advanced DSA** and **Problem-Solving**
 - 🏆 Contest Rating on **LeetCode**: 1400+
+- 🖥️ Focus on building clean, efficient, and scalable codebases
 
 ---
 
-## 👨‍💻 My Experience:
-- **GrapplTech** - Contributed to open-source, creating reusable UI components for developers.
-- **Unthinkable Solutions** - Worked on dynamic full-stack projects, focusing on delivering optimal performance and clean code.
+## 🙋‍♂️ About Me
+
+I’m a passionate developer who loves to explore new technologies, solve complex problems, and contribute to meaningful projects. Currently pursuing my MCA and specializing in **Full Stack Development** with a focus on **scalability** and **clean code**. When I'm not coding, you can find me diving into **LeetCode challenges** to keep my problem-solving skills sharp or enjoying the mountains and nature on my travels!
 
 ---
 
@@ -37,6 +40,29 @@
 
 ---
 
+## 🎓 Certifications
+
+- **Frontend Developer (React)** - HackerRank
+- **Full Stack Web Development (MERN)** - Apna College
+
+---
+
+## 🏆 Achievements & Milestones
+
+- Solved 200+ problems on **LeetCode**
+- Contributed to open-source projects
+- Participated in **Naukri Young Turks Skill Test**
+
+---
+
+## 🚀 Learning & Future Goals
+
+- Currently mastering **Advanced DSA** and **Competitive Programming**
+- Improving my understanding of **system design** and **scalability**
+- Exploring **AI/ML** and **cloud services**
+
+---
+
 ## 🚀 Top Projects:
 ### [Go-Foodie](https://go-foodie-frontend.onrender.com/)
 A fully functional **food delivery web app** developed using the **MERN stack**. Users can browse menus, place orders, and track delivery. The project involved building a seamless **frontend** and a robust **backend** API, with deployment on **Render**.
@@ -46,16 +72,17 @@ An interactive travel platform leveraging **Mapbox API** for geolocation service
 
 ---
 
-## 📈 GitHub Stats:
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manishrwt15&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishrwt15&layout=compact&theme=radical)
+## 🤝 Collaborations & Testimonials
+
+- Worked with **Yamini** on the **Go-Foodie** project. 
 
 ---
 
-## ⚡ Fun Facts:
-- 🏞️ I love traveling to the mountains and exploring new places.
-- 🎮 Gaming and watching action movies are my go-to activities during breaks.
-- 🍵 A tea enthusiast who enjoys coding with a hot cup of tea by my side!
+## 📈 GitHub Stats:
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manishrwt15&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishrwt15&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manishrwt15&theme=radical)
+![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=Manishrwt15&theme=radical)
 
 ---
 
@@ -66,3 +93,8 @@ An interactive travel platform leveraging **Mapbox API** for geolocation service
 ---
 
 ✨ *"Constantly improving, one problem at a time."*
+
+## 📩 Contact Me
+
+If you'd like to collaborate or have a freelance project, feel free to reach out!  
+📧 **Email**: manishrwat15@gmail.com
