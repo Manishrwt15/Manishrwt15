@@ -81,8 +81,6 @@ An interactive travel platform leveraging **Mapbox API** for geolocation service
 ## 📈 GitHub Stats:
 ![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manishrwt15&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manishrwt15&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manishrwt15&theme=radical)
-![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=Manishrwt15&theme=radical)
 
 ---
 
