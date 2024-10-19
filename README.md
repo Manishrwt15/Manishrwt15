@@ -1,4 +1,3 @@
-
 # Hi there, I'm Manish Rawat! 👋
 
 **A Full Stack Developer** with a strong passion for **solving complex problems** and a solid command over **MERN Stack** and **Java**. With over a year of experience, I've honed my skills in **Data Structures & Algorithms (DSA)**, completing more than **200 LeetCode problems**. I thrive on building scalable applications, optimizing code, and contributing to open-source projects.
