@@ -61,7 +61,7 @@ An interactive travel platform leveraging **Mapbox API** for geolocation service
 ---
 
 ## 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Rawat-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/manish-rawat-b1b61b269) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Rawat-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manishrwt15) 
 [![GitHub](https://img.shields.io/badge/GitHub-Manishrwt15-333?style=for-the-badge&logo=github)](https://github.com/Manishrwt15)
 
 ---
