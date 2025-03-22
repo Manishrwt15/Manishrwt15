@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manishrwt15&color=blueviolet&style=flat-square)
 
-**A Full Stack Developer** with a strong passion for **solving complex problems** and a solid command over **MERN Stack**, **Java**, and **Python**. With over two years of experience, I've honed my skills in **Data Structures & Algorithms (DSA)**, completing more than **200 LeetCode problems**. I thrive on building scalable applications, optimizing code, and contributing to open-source projects.
+**A Full Stack Developer** with a strong passion for **solving complex problems** and a solid command over **MERN Stack**, **Java**, and **Python**. With over two years of experience, I've honed my skills in **Data Structures & Algorithms (DSA)**, completing more than **300 LeetCode problems**. I thrive on building scalable applications, optimizing code, and contributing to open-source projects.
 
 - 🎓 **MCA (Master of Computer Applications), Final Year**
 - 💻 **2+ years of experience** in Full Stack Development
@@ -66,7 +66,7 @@ I’m a passionate developer who loves to explore new technologies, solve comple
 
 ## 🏆 Achievements & Milestones
 
-- Solved 200+ problems on **LeetCode**
+- Solved 300+ problems on **LeetCode**
 - Contributed to open-source projects
 - Participated in **Naukri Young Turks Skill Test**
 
@@ -88,10 +88,6 @@ A fully functional **food delivery web app** developed using the **MERN stack**.
 An interactive travel platform leveraging **Mapbox API** for geolocation services. The project showcases my ability to integrate third-party APIs and provides a dynamic user experience with real-time map updates and filtering features.
 
 ---
-
-## 🤝 Collaborations & Testimonials
-
-- Worked with **Yamini** on the **Go-Foodie** project. 
 
 ---
 
