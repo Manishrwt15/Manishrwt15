@@ -4,7 +4,7 @@
 
 **A Full Stack Developer** with a strong passion for **solving complex problems** and a solid command over **MERN Stack**, **Java**, and **Python**. With over two years of experience, I've honed my skills in **Data Structures & Algorithms (DSA)**, completing more than **300 LeetCode problems**. I thrive on building scalable applications, optimizing code, and contributing to open-source projects.
 
-- 🎓 **MCA (Master of Computer Applications), Final Year**
+- 🎓 **MCA (Master of Computer Applications)**
 - 💻 **2+ years of experience** in Full Stack Development
 - 🌱 Currently mastering **Advanced DSA** and **Problem-Solving**
 - 🏆 Contest Rating on **LeetCode**: 1400+
